@@ -12,7 +12,7 @@
 ---
 **1b. ArrayList**
 
--- **1. ArrayList_search** 
+--**1. ArrayList_search** 
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/ArrayList_search.png)<br>
 
 
