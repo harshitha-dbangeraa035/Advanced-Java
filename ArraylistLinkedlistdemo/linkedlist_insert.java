@@ -1,4 +1,4 @@
-/*Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))*/
+/*1c. Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))*/
 package adjlab;
 
 import java.util.ArrayDeque;
@@ -17,11 +17,8 @@ public class lab9 {
         a.add("Grey");
         System.out.println("Original LinkedList:");
         System.out.println(a);
-
-        
-        a.offerLast("Pink");
-
-        System.out.println("\nLinkedList after adding 'Pink' at the end:");
+	a.offerLast("Pink");
+	System.out.println("\nLinkedList after adding 'Pink' at the end:");
         System.out.println(a);
     }
 
