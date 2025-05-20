@@ -1,4 +1,4 @@
-/*Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())*/
+/*1c. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())*/
 package adjlab;
 
 import java.util.Iterator;
@@ -15,7 +15,6 @@ public class lab8 {
 	        ll.add(6);
 	        System.out.println("Original LinkedList:");
 	        System.out.println(ll);
-	        
 	        Iterator<Integer> descIterator = ll.descendingIterator();
 	        while(descIterator.hasNext()){
 	        System.out.println(descIterator.next());
