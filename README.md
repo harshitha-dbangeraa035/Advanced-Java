@@ -5,3 +5,8 @@
 #
 
 ---
+
+**1a. ArrayLinkedList <br>**
+[Output Screenshot]()
+
+
