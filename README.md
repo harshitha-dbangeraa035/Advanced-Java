@@ -33,14 +33,25 @@
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/Arraylist_delete.png)<br>
 
 ---
-**1c.LinkedList_iterator**
+**1c.LinkedList**
+
+-- **1.Linked_reverse**
 [Output Screenshot]()<br>
 
---
-**1b.ArrayList_remove**
+
+--**2.linked_reverse**
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/linked_reverse.png)<br>
+
+--**3.**
 [Output Screenshot]()<br>
 
---
+--**3.**
+[Output Screenshot]()<br>
+
+--**3.**
+[Output Screenshot]()<br>
+
+
 
 
 
