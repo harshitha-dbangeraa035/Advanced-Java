@@ -36,7 +36,7 @@
 **1c.LinkedList**
 
 -- **1.Linked_iterator**
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/linked%20list_iterator.png)<br>
 
 
 --**2.linked_reverse**
