@@ -35,20 +35,20 @@
 ---
 **1c.LinkedList**
 
--- **1.Linked_reverse**
+-- **1.Linked_iterator**
 [Output Screenshot]()<br>
 
 
 --**2.linked_reverse**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/linked_reverse.png)<br>
 
---**3.**
+--**3.linkedlist_insert**
 [Output Screenshot]()<br>
 
---**3.**
+--**4.linkedlist_display**
 [Output Screenshot]()<br>
 
---**3.**
+--**5.linkedlist_swap**
 [Output Screenshot]()<br>
 
 
