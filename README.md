@@ -28,7 +28,7 @@
 
 ---
 **1b.ArrayList_delete**
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/Arraylist_delete.png)<br>
 
 ---
 **1c.LinkedList_iterator**
