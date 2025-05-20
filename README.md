@@ -14,7 +14,7 @@
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/ArrayList_search.png)<br>
 
 **1b.ArrayList_remove**
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/ArrayList_remove.png)<br>
 
 --
 **1b.ArrayList_sort**
