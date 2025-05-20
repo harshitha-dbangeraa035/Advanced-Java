@@ -52,7 +52,8 @@
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/linkedlist_swap.png)<br>
 
 ---
-
+**2a. Stringhandling** 
+[Output Screenshot]
 
 
 
