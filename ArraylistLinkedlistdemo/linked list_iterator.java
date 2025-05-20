@@ -1,5 +1,5 @@
-/*Write a Java program to iterate through all elements in a linked list starting at the 
-specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))*/
+/*1c. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator 
+( hint : Iterator iteratorobj = listobj.listIterator(1))*/
 package adjlab;
 
 import java.util.ArrayList;
@@ -18,8 +18,7 @@ public class lab7 {
 	        ll.add("Orange");
 	        System.out.println("Complete Color List:");
 	        System.out.println(ll);
-	       
-	        Iterator<String> it = ll.listIterator(1);
+		Iterator<String> it = ll.listIterator(1);
 	        System.out.println("Elements from index 2 onward:");
 	        while(it.hasNext()){
 	        System.out.println(it.next());
