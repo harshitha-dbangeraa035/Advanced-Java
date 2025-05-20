@@ -43,7 +43,7 @@
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/linked_reverse.png)<br>
 
 --**3.linkedlist_insert**
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/linkedlist_insert.png)<br>
 
 --**4.linkedlist_display**
 [Output Screenshot]()<br>
