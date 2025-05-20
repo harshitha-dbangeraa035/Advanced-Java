@@ -13,6 +13,8 @@
 **1b. ArrayList_search** 
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/ArrayList_search.png)<br>
 
+---
+
 **1b.ArrayList_remove**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/ArrayList_remove.png)<br>
 
