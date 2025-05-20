@@ -46,7 +46,7 @@
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/linkedlist_insert.png)<br>
 
 --**4.linkedlist_display**
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/linkedlist_display.png)<br>
 
 --**5.linkedlist_swap**
 [Output Screenshot]()<br>
