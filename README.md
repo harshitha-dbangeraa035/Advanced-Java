@@ -17,19 +17,19 @@
 [Output Screenshot]()<br>
 
 --
-**1b.ArrayList_remove**
+**1b.ArrayList_sort**
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/ArraylistLinkedlistdemo/Arraylist_sort.png)<br>
+
+--
+**1b.ArrayList_extract**
 [Output Screenshot]()<br>
 
 --
-**1b.ArrayList_remove**
+**1b.ArrayList_delete**
 [Output Screenshot]()<br>
 
 --
-**1b.ArrayList_remove**
-[Output Screenshot]()<br>
-
---
-**1b.ArrayList_remove**
+**1c.LinkedList_iterator**
 [Output Screenshot]()<br>
 
 --
