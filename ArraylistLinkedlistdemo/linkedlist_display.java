@@ -1,5 +1,4 @@
-/*Write a Java program to display elements and their positions in a linked list ( using
-l_listobj.get(p) )*/
+/*1c. Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) )*/
 package adjlab;
 
 import java.util.ArrayList;
