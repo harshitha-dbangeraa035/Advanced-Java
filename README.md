@@ -60,6 +60,29 @@
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Stringhandling/Stringhandling_performance.png)<br>
 
 ---
+**3a. String_ operations** 
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_%20operations.png)<br>
+
+---
+**3b. String Exercise** 
+
+--**1.String_isNullOrEmpty**
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_isNullOrEmpty.png)<br>
+
+--**2.String_countOccurance**
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_countOccurrences.png)<br>
+
+--**3.String_reverse**
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_reverse.png)<br>
+
+--**4.String_palidrome**
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_palindrome.png)<br>
+
+--**5.String_removeWhitespace**
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_removeWhitespace.png)<br>
+
+
+
 
 
 
