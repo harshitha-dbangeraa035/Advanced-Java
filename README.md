@@ -69,13 +69,13 @@
 --**1.String_isNullOrEmpty**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_isNullOrEmpty.png)<br>
 
---**2.String_countOccurance**
+--**2.String_countOccurances**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_countOccurrences.png)<br>
 
 --**3.String_reverse**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_reverse.png)<br>
 
---**4.String_palidrome**
+--**4.String_palindrome**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_palindrome.png)<br>
 
 --**5.String_removeWhitespace**
