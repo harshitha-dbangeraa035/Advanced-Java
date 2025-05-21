@@ -1,25 +1,27 @@
 /*3b.Write a Java Program for Counting how many times a substring appears in a main string using user defined function countOccurrences()*/
 package program3;
-
+import java.util.Scanner;
 public class lab3 {
-	public static int countOccurrences(String mainstr,String substr) {
-		int count=0;
-		for(int i=0;i<=mainstr.length()-substr.length();i++) {
-			int index = mainstr.indexOf(substr, i);
-			if (index == i) {
-			    count++;
-			}
-}
-		return count;
+	 public static int countOccurrences(String mainStr, String subStr) {
+	        int count = 0;
+	        int index = 0;
+	        while ((index = mainStr.indexOf(subStr, index)) != -1) {
+	            count++;
+	            index += subStr.length();
+	        }
+	        return count;
+	    }
+
+	    public static void main(String[] args) {
+	        String mainStr = "hellohellohello";
+	        String subStr = "hello";
+	        int result = countOccurrences(mainStr, subStr);
+	        System.out.println("The substring \"" + subStr + "\" appears " + result + " time(s) in the main string.");
+	    }
 	}
 
-	public static void main(String[] args) {
-		String mainstr="helloooo";
-		String substr="l";
-		int res=countOccurrences(mainstr,substr);
-		System.out.println(res);
-	}
 
-}
+
+    
 
 
