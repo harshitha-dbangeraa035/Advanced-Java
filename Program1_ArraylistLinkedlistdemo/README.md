@@ -1,4 +1,3 @@
-
 **1a. ArrayLinkedList** 
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program1_ArraylistLinkedlistdemo/1a.ArrayLinkedList.png)<br>
 
@@ -15,7 +14,7 @@
 
 
 -- **3 .ArrayList_sort**
-[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program1_ArraylistLinkedlistdemo/Arraylist_sort.png)<br>
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program1_ArraylistLinkedlistdemo/Arraylist_sort.java)<br>
 
 
 -- **4. ArrayList_extract**
