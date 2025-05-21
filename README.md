@@ -81,6 +81,25 @@
 --**5.String_removeWhitespace**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_removeWhitespace.png)<br>
 
+---
+**3c.String Exercise**
+
+--**1.String_capitalize**
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_capitalize.png)<br>
+
+--**2.String_truncate**
+[Output Srceenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_truncate.png)<br>
+
+--**2.String_numeric**
+[Output Srceenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_numeric.png)<br>
+
+--**2.String_random**
+[Output Srceenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_random.png)<br>
+
+--**2.String_countWords**
+[Output Srceenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/String/String_countWords.png)<br>
+
+---
 
 
 
