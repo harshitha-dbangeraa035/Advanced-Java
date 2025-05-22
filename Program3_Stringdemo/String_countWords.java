@@ -4,7 +4,7 @@ package program3;
 
 import java.util.Scanner;
 
-public class lab11 {
+public class String_countWords {
 	 public static int countWords(String str) {
 	        int count=0;
 
