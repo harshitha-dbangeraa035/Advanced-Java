@@ -4,7 +4,7 @@ package adjlab;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Lab5 {
+public class Arraylist_extract {
 	public static void main(String args[]){
 		List<String> ar=new ArrayList<>();
 		ar.add("Blue");
