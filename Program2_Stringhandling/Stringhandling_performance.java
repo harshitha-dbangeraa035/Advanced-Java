@@ -2,7 +2,7 @@
 in the StringBuffer and StringBuilder. Justify your answer which one is better.*/
 package adjlab;
 
-public class Performance {
+public class Stringhandling_performance {
 	
 	    public static void main(String[] args) {
 	    	
