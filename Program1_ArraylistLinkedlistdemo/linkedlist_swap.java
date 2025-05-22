@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class lab11 {
+public class linkedlist_swap {
 	public static void main(String [] args){
         List<String> a = new ArrayList<>();
         a.add("Blue");
