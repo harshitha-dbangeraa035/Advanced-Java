@@ -5,7 +5,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class lab9 {
+public class linkedlist_insert {
 	public static void main(String [] args){
         Deque<String> a = new LinkedList<>();
         a.add("Blue");
