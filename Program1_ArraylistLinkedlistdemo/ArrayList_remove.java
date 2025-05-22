@@ -4,7 +4,7 @@ package adjlab;
 import java.util.ArrayList;
 import java.util.List;
 
-public class lab3 {
+public class ArrayList_remove {
     public static void main(String args[]) {
         List<String> colors = new ArrayList<>();
         colors.add("Blue");
