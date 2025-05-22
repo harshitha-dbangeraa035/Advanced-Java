@@ -3,7 +3,7 @@ String Creation and Basic Operations, Length and Character Access, String Compar
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()*/
 package program3;
 
-public class lab1 {
+public class String_ operations {
 
 	public static void main(String[] args) {
 		// Basic String Creation
