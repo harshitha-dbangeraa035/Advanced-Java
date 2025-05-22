@@ -4,7 +4,7 @@ package program3;
 
 import java.util.Scanner;
 
-public class lab9 {
+public class String_numeric {
 	 public static boolean isNumeric(String str) {
 	        if (str.isEmpty()) {
 	            return false;
