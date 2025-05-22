@@ -5,7 +5,7 @@ package adjlab;
 
 import java.util.Arrays;
 
-public class Perform {
+public class Stringhandling_perform {
 	
 
 	
