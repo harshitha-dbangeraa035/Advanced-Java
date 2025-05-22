@@ -5,7 +5,7 @@ package program3;
 import java.util.Random;
 import java.util.Scanner;
 
-public class lab10 {
+public class String_random {
 	public static String generateRandomString(int length) {
         String characters="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
         Random random=new Random();
