@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class lab10 {
+public class linkedlist_display {
 	public static void main(String [] args){
         List<String> a = new LinkedList<>();
         a.add("Blue");
