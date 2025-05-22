@@ -4,7 +4,7 @@ package program3;
 
 import java.util.Scanner;
 
-public class lab7 {
+public class String_capitalize {
 
     public static String capitalizeAfterSpace(String str) {
         char[] chars=str.toCharArray();
