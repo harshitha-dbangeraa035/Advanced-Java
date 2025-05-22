@@ -4,7 +4,7 @@ package adjlab;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class lab8 {
+public class linked_reverse {
 	 public static void main(String [] args){
 	        LinkedList<Integer> ll = new LinkedList<>();
 	        ll.add(1);
