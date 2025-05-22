@@ -4,7 +4,7 @@ package program3;
 
 import java.util.Scanner;
 
-public class lab8 {
+public class String_truncate {
 	 public static String truncate(String str, int length) {
 	        if (str.length()<=length) {
 	            return str;
