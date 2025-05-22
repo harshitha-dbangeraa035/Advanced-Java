@@ -3,7 +3,7 @@ package program3;
 
 import java.util.Scanner;
 
-public class lab6 {
+public class String_removeWhitespace {
 	public static String removeWhitespace(String str) {
         String ans= "";
         for(int i=0;i<str.length();i++) {
