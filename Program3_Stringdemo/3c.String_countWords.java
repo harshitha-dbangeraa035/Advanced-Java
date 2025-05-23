@@ -1,4 +1,4 @@
-/*Write a Java Program for Counting the number of words in a string using user defined function
+/*3c.Write a Java Program for Counting the number of words in a string using user defined function
 countWords()*/
 package program3;
 
