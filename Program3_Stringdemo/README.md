@@ -28,11 +28,11 @@
 --**2.String_truncate**
 [Output Srceenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program3_Stringdemo/String_truncate.png)<br>
 
---**2.String_numeric**
+--**3.String_numeric**
 [Output Srceenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program3_Stringdemo/String_numeric.png)<br>
 
---**2.String_random**
+--**4.String_random**
 [Output Srceenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program3_Stringdemo/String_random.png)<br>
 
---**2.String_countWords**
+--**5.String_countWords**
 [Output Srceenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program3_Stringdemo/String_countWords.png)<br>
