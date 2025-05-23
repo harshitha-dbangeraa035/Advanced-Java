@@ -179,7 +179,7 @@
 
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program9_JDBC/9BB.jpg)<br>
 
-**9c.Delete Employee**
+**9c.index Employee**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program9_JDBC/9c.png)<br>
 
 **9d.Delete Employee**
