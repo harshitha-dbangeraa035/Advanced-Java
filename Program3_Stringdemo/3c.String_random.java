@@ -1,4 +1,4 @@
-/*Write a Java Program for Creating a random string of a specified length using user defined
+/*3c.Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()*/
 package program3;
 
