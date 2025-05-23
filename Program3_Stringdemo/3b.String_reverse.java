@@ -1,4 +1,4 @@
-/*Write a Java Program for Reversing the characters in a string using user defined function reverseString().*/
+/*3b.Write a Java Program for Reversing the characters in a string using user defined function reverseString().*/
 package program3;
 import java.util.Scanner;
 
