@@ -169,6 +169,10 @@
 **8d.EmployeeUpdate**
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program_8JDBC/8d.png)<br>
 
+---
+**9a.Mysql_delete.java
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program9_JDBC/9a.png)<br>
+
 
 
 
