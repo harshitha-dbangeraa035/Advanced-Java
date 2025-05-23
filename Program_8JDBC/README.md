@@ -8,8 +8,8 @@
 --**8c.EmployeeDetails**--
 [Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program_8JDBC/8c.EmployeeDetails.png)<br>
 
---**8c.EmployeeUpdate**--
-[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program_8JDBC/8d.EmployeeUpdate.png)<br>
+--**8d.EmployeeUpdate**--
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program_8JDBC/8d.png)<br>
 
 
 
