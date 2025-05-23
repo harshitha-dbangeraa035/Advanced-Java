@@ -1,4 +1,4 @@
-/*Write a java program for getting different colors through ArrayList interface and sort them
+/*1b.Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)*/
 package adjlab;
 
