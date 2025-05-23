@@ -7,7 +7,7 @@
 ---
 
 **1a. ArrayLinkedList** 
-[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program1_ArraylistLinkedlistdemo/1a.ArrayLinkedList.png)<br>
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program1_ArraylistLinkedlistdemo/ArrayLinkedList.png)<br>
 
 ---
 **1b. ArrayList**
