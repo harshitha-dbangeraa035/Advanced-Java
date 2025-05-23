@@ -14,7 +14,7 @@
 
 
 -- **3 .ArrayList_sort**
-[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program1_ArraylistLinkedlistdemo/Arraylist_sort.java)<br>
+[Output Screenshot](https://github.com/harshitha-dbangeraa035/Advanced-Java/blob/main/Program1_ArraylistLinkedlistdemo/Arraylist_sort.png)<br>
 
 
 -- **4. ArrayList_extract**
